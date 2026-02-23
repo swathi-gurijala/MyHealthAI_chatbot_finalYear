@@ -1,0 +1,5 @@
+{
+  "name": "MyHealthAI",
+  "description": "AI-powered medical chatbot and diagnostic assistant for preliminary health insights, report analysis, and wellness recommendations.",
+  "requestFramePermissions": ["microphone"]
+}
